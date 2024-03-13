@@ -1,0 +1,23 @@
+# Model files
+*.pth
+
+# Datasets
+/data
+*.zip
+*.tar.gz
+
+#checkpoints of jupyter notebook 
+.ipynb_checkpoints
+
+# Generated files
+/logs
+/checkpoints
+/outputs
+/__pycache__/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# other notebooks
+practice.ipynb
